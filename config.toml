@@ -1,4 +1,4 @@
-baseURL = 'https://tuxfobux.github.io/personal-blog/'
+baseURL = 'http://tuxfobux.github.io/personal-blog/'
 languageCode = 'en-us'
 title = "ExampleSite"
 paginate = 5
